@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b49d99d3-4400-4588-89d3-5b217fba38b2" name="Default Changelist" comment="" />
+    <list default="true" id="b49d99d3-4400-4588-89d3-5b217fba38b2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,12 +20,13 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/27" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/27.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1allmcOTkvwaFDSBqSEPEV7KPIv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -65,7 +69,8 @@
       <workItem from="1587325724453" duration="1960000" />
       <workItem from="1587376719188" duration="15842000" />
       <workItem from="1587413089548" duration="199000" />
-      <workItem from="1587467022706" duration="9179000" />
+      <workItem from="1587467022706" duration="9704000" />
+      <workItem from="1588237674530" duration="603000" />
     </task>
     <servers />
   </component>
@@ -77,6 +82,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="414" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.261.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1587482643046" />
+    <state x="576" y="103" key="CommitChangelistDialog2" timestamp="1587483183625">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="576" y="103" key="CommitChangelistDialog2/1920.261.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1587483183625" />
     <state width="1899" height="339" key="GridCell.Tab.0.bottom" timestamp="1587392454981">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
